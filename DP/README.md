@@ -28,7 +28,7 @@
 
 **Optional:**
 
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2018jan1.pdf) - Chapter 4: Dynamic Programming
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2018.pdf) - Chapter 4: Dynamic Programming
 
 
 ### Exercises
@@ -44,3 +44,7 @@
 - Implement Value Iteration in Python (Gridworld)
   - [Exercise](Value%20Iteration.ipynb)
   - [Solution](Value%20Iteration%20Solution.ipynb)
+
+- Implement Gambler's Problem
+  - [Exercise](Gamblers%20Problem.ipynb)
+  - [Solution](Gamblers%20Problem%20Solution.ipynb)
